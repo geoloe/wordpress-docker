@@ -4,7 +4,8 @@ services:
   # Database
   db:
     image: mysql:latest
-    volumes: ['./db_data:/var/lib/mysql']
+    volumes: 
+      - db_data:/var/lib/mysql
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: password
