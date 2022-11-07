@@ -25,7 +25,7 @@ Download the docker-compose.yaml file and save it in an empty Folder.
 
 Open the docker-compose.yaml file in VS Code. Open a PowerShell Terminal in VS Code and type:
 
-cd "/path/to/your/docker-compose.yaml"
+cd "/path/to/your/docker-compose.yaml" \n
 docker compose up
 
 ## Step 6
