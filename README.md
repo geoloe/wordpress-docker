@@ -1,5 +1,5 @@
 # wordpress-docker
-Enhanced ready-to-go wordpress instance. Install latest MySQL phpAdmin and Wordpress as Docker Containers
+Enhanced ready-to-go wordpress instance for Windows 10. Install latest MySQL phpAdmin and Wordpress as Docker Containers. Inspired by: bradtraversy
 
 ## Step 1
 
