@@ -15,7 +15,7 @@ https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
 
 ## Step 3
 
-Run Docker Dekstop
+Run Docker Desktop
 
 ## Step 4
 
