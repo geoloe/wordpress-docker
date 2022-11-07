@@ -9,7 +9,7 @@ https://www.docker.com/products/docker-desktop/
 
 ## Step 2
 
-Install WLS2 for Windows 
+Install WSL2 for Windows 
 
 https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
 
